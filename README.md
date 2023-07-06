@@ -1,2 +1,2 @@
 # devslopes-js
-Daily missions from Devslopes 30 Challenge - Javascript
+Missons from Devslopes 30 Challenge - Javascript
